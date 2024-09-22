@@ -7,8 +7,7 @@
         "@APP_NAME@": {
             "apparmor":    "pure-maps.apparmor",
             "desktop":     "pure-maps.desktop",
-            "urls":        "dispatcher.json",
-            "content-hub": "contenthub.json"
+            "urls":        "dispatcher.json"
         }
     },
     "version": "3.3.0",
