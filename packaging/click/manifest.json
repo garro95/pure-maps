@@ -5,8 +5,10 @@
     "title": "@APP_TITLE@",
     "hooks": {
         "@APP_NAME@": {
-            "apparmor": "pure-maps.apparmor",
-            "desktop":  "pure-maps.desktop"
+            "apparmor":    "pure-maps.apparmor",
+            "desktop":     "pure-maps.desktop",
+            "urls":        "dispatcher.json",
+            "content-hub": "contenthub.json"
         }
     },
     "version": "3.3.0",
